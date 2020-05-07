@@ -1,0 +1,20 @@
+How do we bring a repo down to our local machine:
+
+git clone https://github.com/carvasquez206/itic134-sp20-bio-830
+
+How do we see how things are going in git:
+
+git status
+
+How do we stage our files all at once:
+
+git add. 
+
+How do I bring all of the staged files into the repo:
+
+git commit -m "adds files to thsi branch"
+
+How do we send our files to the server:
+
+git push
+
